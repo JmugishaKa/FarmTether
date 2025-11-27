@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+    background: #f2f2f2;
+}
+
+input, select, button {
+    display: block;
+    margin: 8px auto;
+    padding: 10px;
+    width: 260px;
+}
+
+button {
+    background: #2a7b2a;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.product {
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+
